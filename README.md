@@ -3,7 +3,7 @@
 Aplicacion web hecho en angular para acortar url usando la api [bitly](https://dev.bitly.com/) 
 # Demo
 
-<img src="https://media.giphy.com/media/l62BEGdYJmTZW7eltk/giphy.gif" width="500" >
+<img src="https://media.giphy.com/media/Sz86Tp8iOQsvsyrYhO/giphy.gif" width="500" >
 
 ## Instalación
 
